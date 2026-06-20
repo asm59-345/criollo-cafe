@@ -31,3 +31,11 @@ Database & Authentication: Firebase Firestore / Firebase Auth
 Artificial Intelligence: Google Generative AI (Gemini) SDK
 
 Icons: Custom SVG Vector Asset Set
+
+✒️ Credits
+
+Curated By: Criollo Cafe (Le Press, Naval Kishore Rd, Hazratganj, Lucknow)
+
+Developed By: Ashmit Gautam
+
+May your cup be complex, sweet, and always perfectly extracted. ☕
